@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+env/
+*.venv/
+.*env/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific files (examples)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files (if any specific)
+*.tmp
